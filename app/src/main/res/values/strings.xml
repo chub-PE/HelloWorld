@@ -1,5 +1,14 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
-    <string name="hello">TAP TARARARAP RARARAP</string>
+    <string name="app_name">Animal Sounds</string>
+    <string name="title">HOW IT GOES</string>
+    <string name="squirrel_button">SQUIRREL</string>
+    <string name="chicken_button">CHICKEN</string>
+    <string name="crow_button">CROW</string>
+    <string name="donkey_button">DONKEY</string>
+    <string name="pig_button">PIG</string>
+    <string name="snake_button">SNAKE</string>
+    <string name="sheep_button">SHEEP</string>
+    <string name="wolf_button">WOLF</string>
+
     <string name="action_settings">Settings</string>
 </resources>
